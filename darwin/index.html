@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Darwinian Revolution</title>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,600,800' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div class="container">
+        <h1>The Darwinian Revolution</h1>
+        <hr>
+        <div class="home">
+            <h4>This project aims to visualize the links between the historical scientists and academics in
+            the intellectual journey towards the publication of Origin of Species in 1859.</h4>
+            <h4>
+            Click and drag the nodes to find out more about that person and their links to others. </h4>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <h5 class="legend">The pro-evolutionists are in <span class="blue">blue</span>, while
+                    the anti-evolutionsist are in <span class="pink">pink</span>, and
+                    those who did not take a side are in <span class="maroon">maroon</span>.</h5>
+                <div id="chart-area"></div>
+            </div>
+            <div class="col-md-6" id="extra_info">
+                <div id="info">
+                    <h2 id="title"></h2>
+                    <p id="para"></p>
+                    <br>
+                    <h4 id="links_title"></h4>
+                    <p id="links"></p>
+                    <a href=""></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="site-footer" id="footer">
+        <hr>
+        <p>By <a href="http://alexabrahams.co.uk/" target="_blank">Alex Abrahams</a> for the 2016 offering of CULTBLF 47 at Harvard College.</p>
+        <p>&copy; Alex Abrahams 2016</p>
+    </footer>
+
+    <!-- Load JS libraries: jQuery, bootstrap, D3, D3 tooltip -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/d3.min.js"></script>
+    <script src="js/d3.tip.js"></script>
+
+    <!-- Your implementation -->
+    <script src="js/main.js"></script>
+</body>
+</html>

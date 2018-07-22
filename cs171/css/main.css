@@ -1,0 +1,354 @@
+/*General CSS*/
+
+.screen {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.centered-container {
+    width: 1280px;
+    height: 1000px;
+    position: absolute;
+    margin: auto;
+    top: 150px; bottom: 0; left: 0; right: 0;
+    color: white;
+}
+
+.box {
+    width: 680px;
+    height: 250px;
+    padding-top: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.heading_box {
+    width: 1000px;
+    height: 100px;
+    padding-top: 250px;
+    padding-bottom: 150px;
+    margin: auto;
+    text-align: center;
+}
+
+.heading_box h1 {
+    font-size: 56px;
+}
+
+.section_header {
+    background-color: rgba(120, 120, 120, 0.7);
+    border-radius: 5px;
+    display: inline-block;
+    min-width: 300px;
+}
+
+.section_header h1 {
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 2%;
+    /*margin-left: 2%;*/
+    color: white;
+}
+
+/*navbar*/ 
+
+#navbar { font-family: 'Josefin Sans', sans-serif; }
+#navbar.navbar-default { background-color: #000; }
+#navbar a { color: #ccc; }
+#navbar a:hover { color: #7EB3D6; text-decoration: none; }
+#navbar .navbar-header { margin: 10px 0 0 25px; }
+#navbar .navbar-header a { color: white; font-weight: 100; font-size: 24px; }
+#navbar .navbar-header a:hover { color: #7EB3D6;}
+#navbar .navbar-header a:focus { text-decoration: none; }
+#navbar .nav { margin: 0 0 0 25px; }
+.navbar-nav li {
+    margin-top: 0.25%;
+}
+#navbar li {
+    font-size: 20px;
+}
+
+/*Home Screen*/
+.home_intro {
+    background-color: rgba(120, 120, 120, 0.7);
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.home_intro p {
+    color: white;
+}
+
+.home_intro h2 {
+    margin-top: 5px;
+}
+
+.box p {
+    font-size: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+
+/*Intro Screen*/
+#intro {
+    height: 800px;
+}
+
+.intro_box {
+    color: black;
+    margin-bottom: 8%;
+}
+
+.intro_box h1 {
+    font-size: 48px;
+}
+
+.intro_box a {
+    text-decoration: underline;
+    color: black;
+}
+
+.pie {
+    max-width: 300px;
+}
+
+.pierow {
+    max-width: 1280px;
+    margin-top: 15%;
+    /*padding-bottom: 10%;*/
+}
+
+#chart-area3 {
+    margin-left: 5%;
+    margin-right: 10%;
+}
+
+#chart-area {
+    margin-right: 9%;
+}
+
+/*Perceptions Screen*/
+
+.perceptions_header {
+    margin-top: -3%;
+}
+
+#perceptions {
+    height: 1200px;
+}
+
+.perception_box {
+    color: black;
+    margin-top: -150px;
+}
+
+#wordcloud1 {
+    margin-bottom: 5%;
+    position: relative;
+}
+
+#wordcloud2 {
+    margin-bottom: 5%;
+    position: relative;
+}
+
+.wordcloud_row {
+    margin-top: 10%;
+    max-width: 1280px;
+    height: 800px;
+    margin-left: 8%;
+}
+
+.left { 
+    width: 50%; 
+    float:left; 
+}
+
+.right { 
+    width: 50%; 
+    float:right; 
+}
+
+.options {
+    max-width: 580px;
+}
+
+/*Diversity Screen*/
+
+.diversity_header {
+    margin-top: -20%;
+}
+
+.diversity-box {
+    color: black;
+    /*margin-bottom: 2%;*/
+}
+
+#diversity {
+    height: 1000px;
+}
+
+.prog_pie_header {
+    text-align: center;
+    color: black;
+    margin-bottom: 5%;
+}
+
+#prog_pie_info {
+    font-size: 15px;
+}
+
+#stacked_info {
+    color: black;
+}
+
+/*Department Growth Screen*/
+.growth_box {
+    margin-top: -2%;
+    margin-bottom: 10%;
+}
+
+.line_graph {
+    width: 800px;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5%;
+}
+
+#growth {
+    height: 900px;
+}
+
+.selector_label {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.growth-axis {
+    stroke: white;
+}
+
+.growth-axis line {
+    stroke: white;
+}
+
+/*Dept Screen*/
+
+#dept {
+    height: 1300px;
+}
+
+.dept_box {
+    margin-top: -16%;
+    margin-bottom: 7%;
+}
+
+.dept_box2 {
+    margin-top: 0%;
+    margin-bottom: -10%;
+}
+
+#line, #line2 {
+    margin-top: -8%;
+}
+
+.btn {
+    width: 150px;
+}
+
+.mini_header {
+    margin-left: 10%;
+}
+
+/*Credits Screen */
+#credits {
+    height: 170px;
+    background: black;
+}
+
+.credits {
+    text-align: center;
+    background: black;
+    color: white;
+    opacity: 0.8;
+}
+
+/*Backgrounds for the screens*/
+#home {
+    background-color: #945b64;
+}
+
+#intro {
+    background-color: #AE9C96; 
+}
+
+#perceptions {
+    background: #588ba3;
+}
+
+#diversity {
+    background: #DDDAD6;   
+}
+
+#growth {
+    background: #754D54;
+}
+
+#dept {
+    background-color: #AE9C96; 
+}
+
+
+/*D3 elements*/
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+/*.x.axis path {
+  display: none;
+}*/
+
+.line, .linef {
+  fill: none;
+  stroke: white;
+  stroke-width: 1.5px;
+}
+
+/*Tooltips*/
+
+.d3-tip {
+    line-height: 1;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+}
+
+.d3-tip-cloud {
+    line-height: 1;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    background: #eee;
+    color: #333;
+    border-radius: 2px;
+    box-shadow: 0 0 5px #999999;
+    display: none;
+    font-size: 14px;
+    left: 150px;
+    position: absolute;
+    top: 305px;
+    width: 200px;
+    height: 40px;
+}

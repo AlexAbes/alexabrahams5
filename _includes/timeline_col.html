@@ -1,0 +1,21 @@
+<script src="https://cdn.jsdelivr.net/npm/vega@4.0.0-rc.2"></script>
+<script type="text/javascript">
+var view;
+
+vega.loader()
+  .load('{{base}}/vega-timeline.json')
+  .then(function(data) { render(JSON.parse(data)); });
+
+function render(spec) {
+  view = new vega.View(vega.parse(spec))
+    .renderer('canvas')  // set renderer (canvas or svg)
+    .initialize('#vis') // initialize view within parent DOM container
+    .hover()             // enable hover encode set processing
+    .run();
+}
+</script>
+<!-- Maybe create meta-categories which set the distance between the meta-categories but
+then the regular categories within can be set to the yscale so that they don't overlap? -->
+
+<h1>history</h1>
+<div id="vis"></div>

@@ -1,0 +1,25 @@
+<h1>Writing</h1>
+
+<p>
+I tend to have neither much time to write nor many thoughts worthy of being written down and dumped out into the internet. If nothing else, I'll just post which books I've read.
+</p>
+
+<div class="writing">
+    <ul>
+        {% for post in site.posts %}
+        <hr>
+        <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a>
+          <br>
+            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+            <br>
+            <!-- <span class="post-content">{{ post.content | strip_html | truncatewords:75}}</span> -->
+            {{ post.excerpt }}
+            <p><a class="btn btn-secondary" href="{{ post.url }}" role="button">Continue reading...</a></p>
+                <!-- <a href="{{ post.url }}">Read more...</a> -->
+
+        {% endfor %}
+
+    </ul>
+</div>

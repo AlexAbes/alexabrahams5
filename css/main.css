@@ -1,0 +1,152 @@
+/*ALL PAGES*/
+
+.alex-col {
+    margin-top: 5%;
+}
+
+#timeline {
+    min-height: 250px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#logo {
+    width: 70%;
+    max-width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
+
+body {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+#desc {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.mini_logos {
+    width: 35px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#linkedin_logo {
+    border-radius: 5px;
+}
+
+#mail_logo {
+    width: 25px;
+    margin-right: 3%;
+}
+
+.min_logos {
+    width: 25px;
+    margin-right: 3%;
+}
+
+.contact a {
+    margin-bottom: 10%;
+}
+
+.contact_list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.contact_list li {
+    margin-bottom: 3%;
+}
+
+#logo_span_div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.vertical_nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.vertical_nav a:hover {
+    text-decoration: underline;
+}
+
+/*TIMELINE CSS*/
+#timeline {
+    width: 75%;
+    height: 200px;
+    float: left;
+}
+
+#detail {
+    width: 25%;
+    float: left;
+    height: 200px;
+}
+
+
+.rect {
+    cursor: pointer;
+}
+.hidden {
+    display: none;
+}
+.shown {
+    display: inline;
+}
+.axisLabels, .rectLabels {
+    font-size: 12px;
+}
+.underline {
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-bottom: 5px;
+}
+.categoryLabels {
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+/*WRITING*/
+
+.writing li {
+    list-style-type: none;
+}
+
+.writing {
+    margin-left: -5%;
+}
+
+.writing li a {
+    font-size: 35px;
+}
+
+.btn {
+    border-radius: 40px;
+    border-color: white;
+    /*background-color: black;*/
+}

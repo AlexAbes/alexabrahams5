@@ -1,0 +1,168 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v4.json",
+  "width": 700,
+  "height": 200,
+  "padding": 5,
+
+  "data": [
+    {
+      "name": "people",
+      "values": [
+        {
+          "label": "Gap Year",
+          "category": "academic",
+          "born": "1 June, 2012",
+          "died": "1 June, 2013"
+        },
+        {
+          "label": "Oxford PPE",
+          "category": "academic",
+          "born": "8 October, 2013",
+          "died": "19 June, 2015"
+        },
+        {
+          "label": "Harvard",
+          "category": "academic",
+          "born": "25 August, 2015",
+          "died": "24 May, 2018"
+        },
+        {
+          "label": "OFA",
+          "category": "work",
+          "born": "23 June, 2012",
+          "died": "30 August, 2012"
+        },
+        {
+          "label": "Parliamentary intern",
+          "category": "work",
+          "born": "10 September, 2012",
+          "died": "23 November, 2012"
+        },
+        {
+          "label": "GoCardless",
+          "category": "work",
+          "born": "14 July, 2014",
+          "died": "3 October, 2014"
+        },
+        {
+          "label": "HFA data analytics intern",
+          "category": "work",
+          "born": "30 August, 2016",
+          "died": "11 November, 2016"
+        },
+        {
+          "label": "CS171 TF",
+          "category": "work",
+          "born": "9 September, 2017",
+          "died": "12 December, 2017"
+        },
+        {
+          "label": "Precision data analytics intern",
+          "category": "work",
+          "born": "4 June, 2018",
+          "died": "10 August, 2018"
+        },
+        {
+          "label": "SCAS",
+          "category": "play",
+          "born": "6 February, 2017",
+          "died": "13 April, 2018"
+        }
+      ],
+      "format": {
+        "type": "json",
+        "parse": {
+          "label": "string",
+          "born": "date",
+          "died": "date"
+        }
+      }
+    },
+    {
+      "name": "events",
+      "format": {"type":"json", "parse":{"when":"date"}},
+      "values": [
+        { "name":"High School Graduation", "when":"May 26, 2012" },
+        { "name":"Transfer Colleges",     "when":"1 July, 2015" },
+        { "name":"College Graduation",    "when":"May 24, 2018" }
+      ]
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "yscale",
+      "type": "band",
+      "range": [0, {"signal": "height"}],
+      "domain": {"data": "people", "field": "category"}
+    },
+    {
+      "name": "xscale",
+      "type": "time",
+      "range": "width",
+      "round": true,
+      "domain": {"data": "people", "fields": ["born", "died"]}
+    }
+  ],
+
+  "axes": [
+    {"orient": "bottom", "scale": "xscale", "format": "%Y", "grid": "True", "gridScale": "yscale"}
+  ],
+
+  "marks": [
+    {
+      "type": "text",
+      "from": {"data": "events"},
+      "encode": {
+        "enter": {
+          "x": {"scale": "xscale", "field": "when"},
+          "y": {"value": -10},
+          "angle": {"value": -25},
+          "fill": {"value": "#000"},
+          "text": {"field": "name"},
+          "fontSize": {"value": 10}
+        }
+      }
+    },
+    {
+      "type": "rect",
+      "from": {"data": "events"},
+      "encode": {
+        "enter": {
+          "x": {"scale": "xscale", "field": "when"},
+          "y": {"value": -8},
+          "width": {"value": 1},
+          "height": {"field": {"group": "height"}, "offset": 8},
+          "fill": {"value": "#888"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {"data": "people"},
+      "encode": {
+        "enter": {
+          "x": {"scale": "xscale", "field": "born"},
+          "y": {"scale": "yscale", "field": "category", "offset": -3},
+          "fill": {"value": "#000"},
+          "text": {"field": "label"},
+          "fontSize": {"value": 10}
+        }
+      }
+    },
+    {
+      "type": "rect",
+      "from": {"data": "people"},
+      "encode": {
+        "enter": {
+          "x": {"scale": "xscale", "field": "born"},
+          "x2": {"scale": "xscale", "field": "died"},
+          "y": {"scale": "yscale", "field": "category"},
+          "height": {"value": 30},
+          "fill": {"value": "#5a6268"},
+          "fillOpacity": {"value": "0.5"}
+        }
+      }
+    }
+  ]
+}

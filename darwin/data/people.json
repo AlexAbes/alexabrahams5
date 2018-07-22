@@ -1,0 +1,235 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "color": "anti",
+      "name": "William Paley",
+      "para": "Reverend William Paley lived from 1743 to 1805, and is most famous for a trilogy of works presenting a logical and coherent argument for the existence of God which became widely accepted and influential. The first two of this trilogy, Moral Philosophy (1785) and Evidences of Christianity (1794), were set as required reading for Cambridge undergraduates (Ruse 1979, 65) and thus Paley’s views percolated through the British elite for generations. His most famous book, however, is Natural Theology (1802), which used the analogy of a watch and a watchmaker to argue that complex living things require a designer. Natural Theology’s argument has reverberated down through the centuries and still has followers today; the biologist and atheist Richard Dawkins wrote The Blind Watchmaker in response. ",
+      "links": "Charles Darwin: “But I own that I cannot see, as plainly as others do, & as I shd wish to do, evidence of design & beneficence on all sides of us. There seems to me too much misery in the world. I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidæ with the express intention of their feeding within the living bodies of caterpillars, or that a cat should play with mice. Not believing this, I see no necessity in the belief that the eye was expressly designed.” Letter to Asa Gray, 22nd May 1860."
+    },
+    {
+      "id": 2,
+      "color": "pro",
+      "name": "Charles Darwin",
+      "para": "Charles Darwin lived from 1809 to 1882, and is known as the father of evolution by natural selection. Darwin was born to a well-respected and wealthy family of doctors, thinkers, and industrialists, with two famous grandfathers in particular; Erasmus Darwin was a poet and evolutionary thinker, and Josiah Wedgwood was an industrialist manufacturer. Darwin initially enrolled to study medicine at Edinburgh University at the age of sixteen, but was sickened by an operation he saw (at a time when there was no anaesthesia). His time at Edinburgh University introduced him to some of the seminal texts of natural history, but after two years he returned home. His father insisted that if was not to be a doctor, then he would have to become a clergyman instead. He enrolled at Cambridge University to get a bachelor’s degree prior to entering the Church, and met influential professors of biology, botany and geology. While a talented and intelligent young man, Charles Darwin would not have become the father of evolution had it not been for an invitation to join the voyage of the Beagle. This became a five-year trip, lasting between 1831 and 1836, and it had a profound influence on the trajectory of Darwin’s thought and career. He returned home with notebooks filled with his observations of natural life and geological data, and the specimens that he had been collecting and sending home to London were generating academic interest. Soon after his return, he was hit by the idea of evolution by natural selection, analogous to the artificial selection practiced by humans breeding domestic animals. At around the same time, he married his cousin Emma Wedgwood and moved to Down House, in Kent, where he began his experiments on barnacles and pigeons to gather the facts for his theory of evolution. In 1859 he finally published Origin of Species, a text that received a more favorable response than any previous transmutationary or evolutionary idea. There was a great deal of controversy, but Darwin’s overwhelming arsenal of facts and evidence backed up his thesis, and Darwin himself was publicly defended by well-known scientists. He would publish other books in his lifetime, but none reached the scale of Origin of Species. When he died, his renown was such that he was buried in Westminster Abbey, with scientists such as Sir Isaac Newton.",
+      "links": "See other nodes for links to Charles Darwin."
+    },
+    {
+      "id": 3,
+      "color": "other",
+      "name": "Reverend Thomas Malthus",
+      "para": "Reverend Thomas Malthus lived from 1766 to 1834, and is most well-known for his book Essay of the Principle of Population published in 1798. The book’s argument is best summed up by this quote: “The power of population is indefinitely greater than the power in the earth to produce subsistence for man”. Originally a schoolteacher, then a university professor, and then a clergyman, Malthus showed that while population increased geometrically, agricultural output only increased arithmetically, and therefore measures to limit population growth were required. His ideas on ‘positive’ checks (misery, famine, disease, warfare) and ‘negative’ checks (abstinence and late marriage) on population heavily influenced the Victorians’ policies towards the poor. A Malthusian creed that poverty and starvation were “natural and inevitable” (Bowler 1989, 104)  Charles Darwin took the idea of competition which Malthus emphasised and applied it to the natural world.",
+      "links": "Charles Darwin: Darwin read Malthus in September 1838, and later wrote to Ernst Haeckel in August 1864: “I was prepared from having studied the habits of animals to appreciate the struggle for existence, & my work in Geology gave me some idea of the lapse of past time. Therefore when I happened to read “Malthus on population” the idea of Natural selection flashed on me.”  Darwin recorded the moment that reading Malthus gave him the idea for natural selection in a notebook on 28 September 1838; the struggle for existence that Malthus so emphasised would only leave the best-adapted forms of a species alive to reproduce. Alfred Russel Wallace: Alfred Russel Wallace also had a “Malthusian moment” like Darwin’s (Browne 2008, 62) when he took the notion of differential survival and applied it to the natural surroundings of Papua New Guinea."
+    },
+    {
+      "id": 4,
+      "name": "Alfred Russel Wallace",
+      "color": "pro",
+      "para": "Alfred Russel Wallace lived from 1823 to 1913, and was the other discoverer of evolution by natural selection. Unlike Darwin, however, Wallace was largely self-educated and self-made. As a boy, he received an education from the state education system, rather than a private school. He became an apprentice surveyor at age sixteen, and thus spent a lot of time surveying the land and applying geology. He later became a schoolteacher, but in 1844 he and his friend Henry Walter Bates decided to collect and sell specimens from around the world. Unfortunately all their specimens were destroyed in a fire on their boat in 1852, and they were only rescued after ten days. For the better part of a decade, Wallace travelled around Southeast Asia, further collecting and sending back specimens to the UK. In 1858 he was struck by the idea of natural selection by evolution, realising that only the fittest would survive to reproduction. He wrote his ideas up in an essay which he sent to Darwin, whom he did not know well, which reached him in June 1858. Panicked by the discovery that another man had arrived at his theory after two decades of secret work, Darwin consulted Lyell and Hooker for advice. They rapidly arranged for a joint paper to be read out at the Linnaean Society’s meeting in July 1858, and Darwin wrote to Wallace to tell him of these arrangements, hoping they would meet his approval. Wallace courteously acceded to these arrangements, and they continued to correspond politely throughout the controversy of the publication of Origin of Species. By the time of Wallace’s return in 1862, the theory was known everywhere as Darwinism, and Wallace’s contribution was all but forgotten.",
+      "links": "Charles Darwin: Darwin was worried that Wallace would be aggrieved by the arrangements to publish a joint paper while he was halfway round the world and would not find out for another six months. However, the men would later have a productive working relationship, with Darwin being persuaded by Wallace to use Herbert Spencer’s term ‘survival of the fittest’ in a new edition of Origin of Species (Browne 2008, 110)."
+    },
+    {
+      "id": 5,
+      "name": "Carl Linnaeus",
+      "color": "anti",
+      "para": "Carl Linnaeus lived from 1707 to 1778 and was a Swedish naturalist at Uppsala University. Linnaeus invented the system of binomial nomenclature with Systema Naturae in 1735 that survives to this day; he saw himself as a second Adam, giving every living thing its proper name. He named species as they lay in relation to one another, thus transforming natural history and providing an opening for the eventual ideas of evolutionary thought that would connect all species to a common ancestor. However, Linnaeus was a strong believer in fixity and stability of the species; he believed in God and the Creation and did not find an evolutionary relationship between the species credible. He eventually conceded that some new species may form, but only from ‘hybridization’; where characteristics of existing species were recombined into new ones (Bowler 1989, 50). Controversially, Linnaeus even put humans and apes in the same order of primates, based purely on physical similarities (Bowler 1989, 51).",
+      "links": "Comte de Buffon: Buffon was Linnaeus’s great contemporary rival, who was just as ambitious as Linnaeus in his aims to survey all life. Buffon’s work criticized the Linnaean system of classification, and at one point even argued against the idea of classification into species altogether."
+    },
+    {
+      "id": 6,
+      "name": "Comte de Buffon",
+      "color": "pro",
+      "para": "The Comte de Buffon was born Georges-Louis Leclerc and lived from 1707 to 1788. Buffon was a towering figurehead in biology for several generations thanks to his encyclopaedic work Histoire Naturelle, published between 1749 and 1788 in many volumes. In his position as director of the Jardin du Roi from 1739 until his death, he was able to command resources and respect for his ideas and his institution. Buffon carefully rejected Christianity and proposed evolution in the form that there had been degeneration from an initial population in response to local environments. For example, he argued that “all the world’s various lion, tigers, leopards, pumas, and domestic cats “degenerated” in response to local climatic conditions from a single ancestral type of cat” (Larson 2004, 14). But this change was not random; Buffon asserted that there were internal ‘molds’ that kept organisms from degenerating too far from their original forms.",
+      "links": "Carl Linnaeus: Buffon sought a more coherent system of classification for the world’s life than the Linnaean system of classification based solely on physical characteristics. Both men aimed to classify the world; Buffon was the French “king” of natural history, and Linnaeus his Swedish rival."
+    },
+    {
+      "id": 7,
+      "name": "Richard Owen",
+      "color": "anti",
+      "para": "Richard Owen lived from 1804 to 1892, and was the preeminent comparative anatomist of his day. Owen “campaigned vigorously against radical naturalists trying to develop Lamarckian ideas of evolution” (Bowler 1989, 125) in the 1830s but could not fail to see the striking similarities between bones of different species. He explained these as “homologies”: instances where the same structure serves different functions in different species. For example, “a human’s hand, a bat’s wing, and a whale’s paddle share a common five-finger bone structure … even though they perform different functions” (Larson 2004, 44). Rather than view these homologies as evidence for a common ancestor or for evolution, however, Owen saw them as evidence of a divine Creator using one ‘template’ for multiple creatures. Yet Darwin would later use these homologies as evidence for adaptation and thus to undermine the creationist argument. From his position as superintendent of the British Museum’s natural history departments, Owen occupied a highly influential position in British science during this era. But Owen became a controversial figure who was despised by many in Darwin’s inner circle for his attacks on Origin of Species, and by none more so than T.H. Huxley.",
+      "links": "Thomas Henry Huxley: Huxley and Owen waged a great debate over the differences between apes and humans, giving rise to what became known as the ‘Great Hippocampus Question’. Owen asserted that apes do not have an important part of the brain known as the hippocampus minor that only humans have (which, it would later turn out, they do), while Huxley continued to argue that the similarities between apes and humans outweighed their differences. Owen’s hostile April 1860 review of Origin of Species only increased Huxley’s ire for the man whom he already disliked, and on 30th June the two men warred at the annual meeting of the British Association for the Advancement of Science in Oxford. Owen coached the Bishop of Oxford on anatomical arguments against any link between man and ape (Browne 2008, 96), and Huxley replied to each of these arguments one by one. The Bishop’s sarcastic enquiry whether Huxley was related to an ape on his grandmother’s or his grandfather’s side drew the famous response from Huxley that he would rather “have a miserable ape for a grandfather than… a man who introduced ridicule into a grave scientific discussion” (Browne 2008, 96). Charles Darwin: Darwin and Owen had exchanged letters since Darwin’s publication of his Journal of Researches after his voyage on the Beagle, but although courteous they were only professional and not friendly. Although Owen gave Darwin and Wallace’s joint 1858 paper a good review initially, his public response to the full Origin of Species in the Edinburgh Review in April 1860 was ‘brutal’ (Browne 2008, 94). Darwin later wrote of Owen as his ‘bitterest enemy’."
+    },
+    {
+      "id": 8,
+      "name": "Thomas Henry Huxley",
+      "color": "pro",
+      "para": "Thomas Henry Huxley was a famous British comparative anatomist who lived between 1825 and 1895. Huxley came from modest beginnings; his education was afforded through scholarships and he became a medical student before joining the Navy and collecting specimens during his voyages abroad with them. On his return he found that his notes on his specimens had won him a reputation amongst naturalists, and he began to rise through the ranks of the British scientific establishment. Huxley’s self-confidence and energy “made him outstanding in Victorian Britain” (Ruse 1979, 139) and he directed these talents towards the cause of secular education and driving religion from science. Thus even though he was a not a full convert to evolution by natural selection until roughly the time that Darwin actually published Origin of Species, he gave it overwhelming support because he believed it would aid the cause of liberalism (Larson 2004, 81-83).",
+      "links": "Charles Darwin: Huxley gladly offered himself up as ‘Darwin’s bulldog’ (Browne 2008, 93), in anticipation of what he expected to be “the considerable abuse and misrepresentation which unless I greatly mistake is in store for you (Darwin)” (Letter to Darwin, 23rd November 1859). In the same letter he expresses some reservations about Darwin’s thesis, but he broadly accepts the book’s argument. "
+    },
+    {
+      "id": 9,
+      "name": "Louis Agassiz",
+      "color": "anti",
+      "para": "Louis Agassiz was a Swiss-born naturalist who lived from 1807 to 1873. Agassiz studied under the famous Georges Cuvier in Paris, but “became the biggest fish in America’s still small scientific pond” (Larson 2004, 42) by accepting a professorship at Harvard in 1846. Agassiz became a driving force behind Harvard’s growing reputation, leading the Lawrence Scientific School and founding the Museum of Comparative Zoology. Agassiz believed in fixity of species and strongly opposed evolution. He extended Cuvier’s catastrophist beliefs to argue that after each catastrophe, “the Creator utilized ideal archetypes to recreate life according to a coherent, directional plan” (Larson 2004, 43). This allowed for some connections between species through the ages, but in Agassiz’s mind his theory firmly disavowed any evolution, and he signed a letter in 1845 publicly opposing the early evolutionists. Agassiz continued to refuse to teach evolution to his students after Origin of Species was published and the theory of evolution by natural selection became widely accepted. Today Agassiz is condemned for his racist beliefs; he believed that human races were created for specific purposes, and supported slavery for such reasons.",
+      "links": "Georges Cuvier: Cuvier was Agassiz’s mentor and teacher, and Agassiz accepted Cuvier’s theory of catastrophes. Asa Gray: Gray was a rival professor to Agassiz at Harvard, and an advocate for Darwinian evolution by natural selection. Gray and Agassiz held public debates on Darwinism in Boston in 1859 and 1860, and “perhaps Gray was the only man in America who could (occasionally) get the better of Agassiz in debate” (Browne 2008, 92). Adam Sedgwick: Co-signed a letter with Sedgwick in 1845 publicly opposing the early evolutionists. Agassiz wrote: “... these groups of species show no relation through intermediate forms genetically derived one from the other” (Larson 2004, 43)."
+    },
+    {
+      "id": 10,
+      "name": "Georges Cuvier",
+      "color": "anti",
+      "para": "Georges Cuvier was a leading figure of natural history in the early nineteenth century, and lived from 1769 to 1832. Cuvier fancied himself as the “French Newton” (Larson 2004, 5); a discoverer of the laws that governed the natural universe. Cuvier was a French professor of comparative anatomy at the Jardin du Roi, and his work on fossils led to the creation of the field of paleontology and his discovery of the phenomenon of extinction. Cuvier’s work inevitably led him to note the similarities between fossilised animals and modern animals, but he explained this by arguing that new versions of animals were created by God after each catastrophe, such as the Flood. He explained the adaptation that he saw in each animal to its environment as a result of being created to serve a particular function; he believed that he could therefore reconstruct an entire animal from one bone, since that bone would tell him the animal’s function.Cuvier strongly opposed the early evolutionists who proposed transmutationary ideas, such as Lamarck, and for a long time Cuvier’s belief in designed function over change and mutability dominated the biological sciences.",
+      "links": "Jean-Baptiste Lamarck: Larmarck argued that adaptation was the result of change in the species over time, rather than divine Creation. Contemporary rival of Cuvier, Lamarck’s transmutation theory was an early precursor to evolution and was vehemently opposed by Cuvier. Yet Michael Ruse argues that “paradoxically, it may have been Lamarck’s contemporary (Cuvier)... who first drove him toward evolutionism” (Ruse 1979, 12)."
+    },
+    {
+      "id": 11,
+      "name": "Adam Sedgwick",
+      "color": "anti",
+      "para": "Adam Sedgwick was a professor of geology at Cambridge University, and lived from 1785 to 1873. Sedgwick and his contemporary William Buckland of Oxford University saw a pattern of “successive creation” (Larson 2004, 37) in the fossil record they found in Britain’s rock layers; Sedgwick believed that their adaptation to their epoch proved design, and that each species was created anew by a divine Creator in its era. He forcefully denied any transmutationary or evolutionary ideas, and rained scorn down upon the anonymous book Vestiges of the Natural History of Creation (see below) for its proposal of such ideas. Despite having a cordial relationship with Darwin, he was almost equally scornful of Origin of Species when Darwin sent him a copy upon publication. Sedgwick responded on 24th November 1859, writing that “Parts of it I admired greatly; parts I laughed at till my sides were almost sore; other parts I read with absolute sorrow; because I think them utterly false & grievously mischievous” .",
+      "links": "Charles Darwin: In his last year at Cambridge University, Darwin took Sedgwick’s public lecture course on geology (Browne 2008, 16), and Sedgwick took Darwin with him on a two-week trip to Wales for fieldwork on the earliest known rocks there (Browne 2008, 19). Their friendship was strained by Sedgwick’s steadfast opposition to evolution, but they continued to correspond in good manners until Sedgwick’s death in 1873. Robert Chambers: Sedgwick had nothing but contempt for the anonymous author of Vestiges of the Natural History of Creation, later revealed to be Robert Chambers. He wrote a review that ranted about the book being “so uninformed, so inaccurate, so contentious and unsupported by proven facts…, that it could have been written by a woman” (Browne 2008, 51). "
+    },
+    {
+      "id": 12,
+      "name": "Asa Gray",
+      "color": "pro",
+      "para": "Asa Gray was an American botanist who lived from 1810 to 1888. An ambitious and hard-working man, Gray took advantage of growing interest in American plant life to co-author Flora of North America, which brought him prestige and respect. He positioned himself successfully as the man to lead a nationalistic effort to study North America’s flora, which led to an appointment as a professor of botany at Harvard University (Pauly 2000, 29). He organized a network of botanical collectors and suppliers around him, and turned Cambridge, Massachusetts, into a hub of American botanical activity. His work on American flora led him in an evolutionary direction as he speculated on how varieties of plants had spread across geographical barriers across the United States. His friendship with Charles Darwin led him to act as a fixer to get the American edition of Origin of Species published, but Gray’s religious beliefs made it difficult for him to accept the absence of a divine role in the development of species. Therefore Gray wrote several reviews which argued that “God created good and useful variations which natural selection then preserved in a population” (Browne 2008, 93), and Darwin respected this opinion.",
+      "links": "Charles Darwin: Darwin and Asa Gray were close friends, despite living on opposite sides of the Atlantic. Darwin wrote to a friend that “No one other person understands me so thoroughly as Asa Gray. If ever I doubt what I mean myself, I think I shall ask him!” (Letter to Jeffries Wyman, 3rd October 1860)."
+    },
+    {
+      "id": 13,
+      "name": "Archbishop Ussher",
+      "color": "anti",
+      "para": "James Ussher was an Irish archbishop who lived from 1581 to 1656. Ussher is famous for his Chronology which fixed the date of creation as Sunday, October 23, 4004 B.C. Ussher arrived at this date by counting back through the Hebrew descendants listed in the Bible to the creation of Adam. Ussher believed Genesis literally as an account of the origins of human life and early human civilization, but even when he published his Chronology in the 1650s “doubts were already being expressed as to whether Genesis offered a complete account of human origins” (Bowler 1989, 29). Ussher’s chronology became “quasi gospel” (Larson 2004, 12) for British and American Protestants in the eighteenth and nineteenth centuries.",
+      "links": "No direct links."
+    },
+    {
+      "id": 14,
+      "name": "William Buckland",
+      "color": "anti",
+      "para": "William Buckland lived from 1784 to 1856 and was a famously eccentric professor of geology at Oxford. He was well known for taking his Oxford students down caves in Yorkshire to look at very old bones that he had discovered. Buckland dominated the relatively new field of geology (he was Oxford’s first reader in geology) along with Adam Sedgwick of Cambridge for decades. Buckland was also a cleric, and held many posts within the Church during his lifetime, varying from a local Oxford rectory to serving as dean of Westminster (Larson 2004, 30). Buckland considered the flood of the Bible as a ‘diluvial period’; a break between a past where the Earth was roamed by the animals of fossils, and the modern era when God created humans. Buckland died before Darwin’s Origin of Species was published.",
+      "links": "Adam Sedgwick: Buckland became Oxford’s first reader in geology the same year that Sedgwick became Cambridge’s first professor in the subject, and together they set the direction and established the norms of the new subject. Larson calls them “kindred spirits” (Larson 2004, 35). Charles Darwin: Darwin cultivated Buckland’s regard by sending him a copy of his Journal of Researches in 1839 but although Darwin and Buckland exchanged some letters during the overlap in their lifetimes they were not friends. Darwin believed that Buckland had a “craving for notoriety, which sometimes made him act like a buffoon” (Larson 2004, 31)."
+    },
+    {
+      "id": 15,
+      "name": "Jean-Baptiste Lamarck",
+      "color": "pro",
+      "para": "Jean-Baptiste Lamarck, as he is commonly known, was born Jean Baptiste Pierre Antoine de Monet, chevalier de Lamarck, in 1744, and he died in 1829. After the French Revolution, the Jardin du Roi was reorganized into the Museum of Natural History, and Lamarck landed the chair in invertebrate studies, which he held for the rest of his life. This allowed him to pursue whatever scientific ideas he liked, and some time between 1799 and 1800 he arrived at his theory of transmutation. He argued that because of changing demands from their environments, animals’ bodies would physically alter to meet these challenges during their lifetimes, and then pass these changes down by reproduction and inheritance. The behavior of the animal would sometimes cause a change in the size of an organ or even create one through the movement of bodily fluids (Ruse 1979, 7). Lamarck’s transmutation theory was met with incredulity, but his approach to classifying his invertebrates would help evolution a long way, because it rejected the Linnaean method of classification in favor of a table of connections between the animals, published in 1809.",
+      "links": "Comte de Buffon: After his military service and medical education, the Comte de Buffon helped Lamarck to get minor positions at the French Academy of Sciences and the Jardin du Roi (Larson 2004, 39). Georges Cuvier: Lamarck and Cuvier were contemporaries at the Museum of Natural History (formerly known as the Jardin du Roi) and Lamarck arrived at his transmutationary theory partly through struggling with Cuvier’s arguments for the phenomenon of extinction. He could not believe that protected invertebrates like shellfish would go extinct spontaneously, and so he concluded that they must have evolved into other life forms (Ruse 1979, 6). However Cuvier and Lamarck thoroughly disagreed on transmutation and evolutionary ideas."
+    },
+    {
+      "id": 16,
+      "name": "Charles Lyell",
+      "color": "pro",
+      "para": "Charles Lyell lived from 1797 to 1875, and was a well-known geologist who became close friends with Darwin. Lyell’s Principles of Geology had an immense influence on Darwin when he read it during his voyage on the Beagle. Lyell argued against the catastrophism espoused by Cuvier, and instead proposed the scientific principle of uniformitarianism: there were no catastrophes in the geological past, and only such changes as we could see taking place in modern times. Lyell argued that the Earth was immeasurably old, and over the course of the Beagle voyage Darwin became a “total convert” to the notion of gradual, accumulative change rather than sudden and large changes caused by catastrophes. This concept would be crucial to his theory of evolution by natural selection, even though Lyell himself “was not prepared to believe in any kind of transmutation in living beings” (Browne 2008, 32) and therefore included a lengthy attack on Lamarck in his book. Deeply influenced by Darwin’s theory of natural selection, Lyell’s book The Antiquity of Man, published in 1863, extended evolution into the prehistoric age by showing how humans had appeared on Earth much earlier than anyone had thought previously; the effect of such a well-respected author extending evolution “into the prehistoric world was incalculable” (Browne 2008, 90).",
+      "links": "Charles Darwin: Janet Browne argues that “without Lyell, it could be said, there might not have been any Darwin” (Browne 2008, 33). But more than just an intellectual influence, on Darwin’s return he and Lyell became fast friends; Lyell was one of the few people who knew of Darwin’s theory during the years of work leading up to its publication. They corresponded and saw each other often during their years of friendship, and Lyell was one of the friends who convinced Darwin to publish jointly with Wallace when the latter independently came up with the theory of evolution by natural selection. John Stevens Henslow: Henslow was a mentor of Darwin’s at Cambridge, and it was on Henslow’s recommendation that he took Lyell’s Principles of Geology with him on the Beagle (Ruse 1979, 49). Henslow was a catastrophist who disagreed with Lyell’s opposing view, and therefore warned Darwin (in vain) not to accept Lyell’s arguments (Ruse 1979, 49)."
+    },
+    {
+      "id": 17,
+      "name": "John Stevens Henslow",
+      "color": "anti",
+      "para": "John Stevens Henslow lived from 1796 to 1861, and was a young professor of botany at Cambridge University when Darwin was an undergraduate there. While Henslow was not a great scientist, he was a great communicator and ambassador for his subject, spreading enthusiasm and bringing in institutional support for the long-neglected subject at Cambridge, where the herbarium had been allowed to rot (Ruse 1979, 23). Henslow was also a reverend, and attending to his parishional duties sometimes took him away from his scientific pursuits, although Ruse writes that “he would have had no doubt which was more important”. Although conservative in his religious views, he was liberal in his politics and “from him Darwin absorbed not only much scientific knowledge but also a sense of the role that natural theology played in the ideology of the gentlemanly elite that ran the country’s science” (Bowler 1989, 149).",
+      "links": "Charles Darwin: Henslow took a liking to Darwin at Cambridge, and he invited the younger man to evening parties to meet the “some of the eminent men of the university” (Browne 2008, 16). Darwin deepened his interest in botany and natural history by collecting plants with Henslow while he was at Cambridge (Larson 2004, 57). It was Henslow who gave him reading recommendations that Darwin later cited as inspirational, and it was Henslow who invited Darwin to take a spot on the Beagle for its voyage around the world, which would be completely formative for Darwin as a scientist."
+    },
+    {
+      "id": 18,
+      "name": "Robert Chambers",
+      "color": "pro",
+      "para": "Robert Chambers lived from 1802 to 1871 and is the author of the infamous Vestiges of the Natural History of Creation, published in 1844. Chambers was a Scottish publisher who came up with his own theory of transmutation based on many of the concepts and people who influenced Darwin and Wallace; Thomas Malthus and Charles Lyell for example. Chambers believed in spontaneous generation, and even posited that orangutans were the ancestors of humans, but offered few facts to support his theory. Chambers published his book anonymously to great scandal and widespread scorn; it was immediately popular however, and Darwin’s Origin of Species was not as initially popular as Vestiges was upon publication.",
+      "links": "Charles Darwin: Darwin was extremely keen to disassociate himself with Vestiges, because he thought it badly argued and lacking in scientific evidence. The reception that greeted Vestiges in 1844 convinced him that he needed to bury his eventual readers with facts to support his thesis."
+    },
+    {
+      "id": 19,
+      "name": "Joseph Dalton Hooker",
+      "color": "pro",
+      "para": "Joseph Hooker lived from 1817 to 1911 and was the director of Kew Gardens, a position his father held before him. Located just outside London, Kew Gardens was the largest center for botanical research in the world, at a time when the British Government financed botanical research into cash crops that could be grown across its Empire (Browne 2008, 91). Hooker was the personified nucleus of a network of botanical researchers scattered across the world; his support for Darwinism, arrived at after some years debating it with Darwin himself (Bowler 1989, 166), was highly influential in the world of botany.",
+      "links": "John Stevens Henslow: Hooker’s first wife was John Stevens Henslow’s daughter Frances Harriet, with whom he had seven children before her death in 1874. Charles Darwin: Hooker was Charles Darwin’s closest friend and the first person whom he told about his theory of evolution by natural selection, showing him a copy of his essay in 1847 (Bowler 1989, 165). Hooker was one of Darwin’s closest friends, the “Four Musketeers”, who publicly fought for Darwinism through reviews, writings and public appearances (Larson 2004, 83)."
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1
+    },
+    {
+      "source": 2,
+      "target": 1
+    },
+    {
+      "source": 2,
+      "target": 3
+    },
+    {
+      "source": 4,
+      "target": 5
+    },
+    {
+      "source": 6,
+      "target": 7
+    },
+    {
+      "source": 6,
+      "target": 1
+    },
+    {
+      "source": 8,
+      "target": 9
+    },
+    {
+      "source": 8,
+      "target": 10
+    },
+    {
+      "source": 8,
+      "target": 11
+    },
+    {
+      "source": 13,
+      "target": 10
+    },
+    {
+      "source": 13,
+      "target": 1
+    },
+    {
+      "source": 9,
+      "target": 14
+    },
+    {
+      "source": 15,
+      "target": 1
+    },
+    {
+      "source": 15,
+      "target": 16
+    },
+    {
+      "source": 10,
+      "target": 1
+    },
+    {
+      "source": 10,
+      "target": 17
+    },
+    {
+      "source": 16,
+      "target": 1
+    },
+    {
+      "source": 18,
+      "target": 16
+    },
+    {
+      "source": 18,
+      "target": 1
+    },
+    {
+      "source": 7,
+      "target": 1
+    },
+    {
+      "source": 11,
+      "target": 1
+    },
+    {
+      "source": 3,
+      "target": 1
+    },
+    {
+      "source": 14,
+      "target": 5
+    },
+    {
+      "source": 17,
+      "target": 1
+    }
+  ]
+}

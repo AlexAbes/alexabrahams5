@@ -1,0 +1,4531 @@
+[{
+    "words": ["passionate", "focused", "overworked"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["sleep-deprived", "awkward", "smart"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["innovative", "creative", "enthusiastic"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "crazy", "techy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["intelligent", "hard-working", "techy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "literal", "awkward"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["asian/white", "stressed", "busy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["driven", "logical", "smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["focused", "scientific", "quantitative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "driven", "dedicated"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["money-seeking", "lazy", "bored"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["very", "very", "patient"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["nerdy", "condescending", "sleep-deprived"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["brilliant", "useful", "cool"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["team", "no", "sleep"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["tech-savvy", "sleepless", "hirable"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["busy", "focused", "dedicated to cs"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": ["intelligent", "passionate", "logical"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["tech", "savvy", "robot"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "hard-working", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["determined", "logical", "nerdy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["analytical", "logical", "rational"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 6
+}, {
+    "words": ["dedicated", "focused", "unhealthy"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["nerdy", "focused", "uncreative"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 0
+}, {
+    "words": ["hard-working", "perceptive", "persistent"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["driven", "focused", "ambitious"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["hard-working", "proud", "glasses"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["debugging", "smart", "nerdy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 0
+}, {
+    "words": ["hard-working", "over-committed", "always psetting"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["hard-working", "cs50 cult"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["dedicated", "chill", "analytical"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["focused", "driven", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["creative", "analytical", "hard-working"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": ["smart", "hard-working", "boring"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["detail", "oriented", "programmer"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "hard-working", "dedicated"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["interesting", "talented", "innovative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["geek", "practical", "dreamer"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["logical", "creative", "linear"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 0
+}, {
+    "words": ["techy", "logical", "precisde"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["brilliant", "coder", "trendy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["arrogant", "stressed out", "tortured"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["logical", "detail-oriented", "diligent"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["computer", "science", "concentrator"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["diligent", "focused", "fast-learning"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["start-up", "smart", "interested"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["technocrat", "quantitative", "smart"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 0
+}, {
+    "words": ["cs", "50"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["nerdy", "shut-in", "pale"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["very", "very", "busy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["technical", "analytic", "mathematical"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 0
+}, {
+    "words": ["smart", "determined", "psets"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["money", "tech", "consulting"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": -1,
+    "race": 3
+}, {
+    "words": ["dedicated", "insomniac", "computer-ey"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["quantitative", "programmer", "efficient"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["hard-working", "pragmatic", "geeky"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["hardy", "dedicated", "logical"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["stem"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": ["smart", "techy", "employable"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["code", "night", "sleepless"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["bandwagon"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["intelligent", "hard-working", "mathematical"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["logical", "visual", "theoretical"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["i", "dont", "think", "you", "can", "describe", "any", "concentration", "so", "generally"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["analytical", "creative", "problem-solving"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["dedicated", "logical", "efficient"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["focused", "techy", "sharp"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": ["focused", "determined", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["sleepless", "self-obsessed", "employable"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["grueling", "lots of opportunities", "well-paid"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["intense", "logical", "intelligent"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["coding", "smart", "loves computers"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["cool", "hard-working", "the future not three words but close enough"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": ["technical", "analytical", "logical"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": ["driven", "analytical", "problem-solver"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["analytical", "focused", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "technical", "intense"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 0
+}, {
+    "words": ["nerdy", "smart", "intelligent"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": ["startup", "geeky", "bad-hygeine"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["programmer", "busy", "dedicated"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["busy", "techy", "progressive"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["meticulous", "marketable", "quantitative"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["hard-working", "quantitative", "sleepy"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["crazy", "genius", "sleep-less"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": -1,
+    "race": 0
+}, {
+    "words": ["crazy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["motivated", "optimistic", "sleep-deprived"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["analytical", "logical", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["problem solver", "persistent", "arrogant"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["creative", "theoretical", "problem-solving"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["quantitative", "logical", "tech-y"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["logical", "socially awkward"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["not", "seen", "often"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "crazy", "hard-working"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["analytical", "practical", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "creative", "technical"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["hardcore", "technical", "focused"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": ["computer", "science", "concentrator"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["quiet", "programmer", "less social"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "problem", "solver"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["smart", "focused", "overwhelmed"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["logical", "efficient", "organized"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["computer", "science", "concentrator"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["preprofessional", "motivated", "useful"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["intelligent", "hard-working", "stressed"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": ["problem-solver", "detail-oriented", "intelligent"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": ["nerdy", "smart", "hard-working"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["hard-working", "smart", "special"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["quantitative", "analytical", "comfortable-with-abstraction"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 0
+}, {
+    "words": ["smart", "creative", "weird"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["busy", "night-owl"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["confident", "assertive", "detail-oriented"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["insomniac", "laptop", "code"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["intelligent", "detailed", "patient"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["stressed", "intelligent", "useful"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["creative", "precise", "perservering"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["logical", "hipster", "techie"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["hard", "but", "useful"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["intelligent", "passionate", "disciplined"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": ["ambitious", "smart", "driven"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "dedicated", "tenacious"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["logical", "mathematical", "detail"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": -1,
+    "race": 2
+}, {
+    "words": ["smart", "busy", "geek"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["project-oriented", "collaborative", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["busy", "for", "eons"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": ["tech-y", "start-up-y", "innovative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["nerdy", "smart", "disciplined"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["focused", "ambitious", "hard-working"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["busy", "tired", "smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["practical", "diverse", "focused"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["progressive", "engineer", "google"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["many", "harvard", "students"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": ["focused", "creative", "independent"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": ["male", "entitled", "privileged"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["obsessive", "focused", "intense"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["analytical", "dedicated", "sleep-deprived"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["hard-working", "tired", "studious"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["hard-working", "dedicated", "smart"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["focused", "determined", "patient"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["tech", "programming", "computers"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["analytical", "cutthroat", "pompous"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": ["analytical", "boring", "nerdy"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": ["solitary", "diligent", "quirky"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": ["interested", "in", "tech"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["dumber than a math concentrator", "boring", "stupid"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["high", "earning", "potential"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["analytical", "cutthroat", "busy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["career-oriented", "methodical", "stressed"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["analytical", "creative", "tired"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "busy", "dedicated"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["intense", "focused", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["diverse", "smart", "stupid"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["tech-y", "smart", "specific"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["dedicated", "nerdy", "tired"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["narrow-focused", "quantitative", "very smart but not necessarily intellectual"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["hard-working", "pset-er", "proactive"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": ["rigid", "cs50", "computer"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["nerdy", "quiet", "not well-rounded"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["sleep-deprived", "enthusiast"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["computer", "science", "concentrator"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["smart", "dedicated", "fun"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["har-core", "nerdy", "money-envy"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["analytical", "smart", "driven"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["hard-working", "smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["quantitative", "careerist", "bored"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["money", "stressed", "focused"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["obnoxious", "thoughtless", "too-practical"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["computer", "science", "concentrator"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["intense", "foreign", "stressful"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["smart", "mathy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["tired", "logical", "nerdy"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["math-oriented", "problem-solver", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["nerdy", "white", "male"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["analytical", "creative", "specialized"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["cool", "innovative", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["analytical", "nerdy", "hardcore"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["modern", "smart", "technological"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["smarter", "than", "me"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": ["self-serving", "self-loathing", "unsociable"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["techie", "stressed"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["obnoxious", "witty", "social"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["debugging", "debugging", "debugging"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["logical", "meticulous", "immoral"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["knowledgeable", "resourceful", "funny"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["smart", "detailed", "busy"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["precise", "creative", "hard-working"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "intense", "passionate"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["busy", "work", "stress"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["arrogant", "trendy", "career-focused"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["focused", "nerdy", "usually smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["pretty smart", "tech savvy", "fewer requirements"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["logical", "dedicated", "bro"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["werid", "hard-working", "busy"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["human", "harvard", "student"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["technical", "efficient", "geek"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["analytic", "programming", "dank"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["focused", "exhausted", "clever"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["productive", "logical", "analytical"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["non-existent social life", "intelligent", "dedicated"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["dedicated", "rational", "diligent"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "logical", "busy"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["nerd", "hard-working hacker"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["detail oriented", "imaginative", "logical"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "dedicated"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["stressed", "smart", "computer-savy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["cool", "cs", "intelligent"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["hard-working", "nerdy"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["resourceful", "patient", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["hard-working", "free pizza", "employable"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["quiet", "smart", "nerdy"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["logical", "amazing", "brain"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "tenacious", "ambitious"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": ["ambitious", "limited", "proud"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["disciplined", "organized", "intelligent"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["haughty", "clueless", "productive"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["rude", "snobby", "funny"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["tired", "arrogant", "hipster"],
+    "exp_level": 0,
+    "gender": -1,
+    "race": 2
+}, {
+    "words": ["techy", "smart", "innovative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["smart", "logical", "quantitative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["always", "contemplating", "employment"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["reclusive", "late on deadlines", "esoteric"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["dedicated", "tough", "smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["driven", "motivated", "lebron"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["thoughtful", "focused", "sharp"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["busy", "techy", "smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["hard-working", "smart", "technologically-adept"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "quantitative", "driven"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["lacking", "much", "sleep"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["qualitative", "problem-solving", "intelligent"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["computer", "science", "concentrator"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["expensive", "under-informed", "geek"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["logical", "nerdy", "office hourse technicially two words"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["smart", "weird", "nerdy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "narrow"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["technology", "computational", "analytical"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["employable", "introverted", "un-creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["stressed", "cs50", "rich"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["hard-working", "logical", "math-y"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["intense", "tired", "smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["exhausted", "stressed", "proud"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["analytical", "smart", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["driven", "analysty", "determined"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["male", "reserved", "hard-working"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["logical", "thorough", "techie"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["creative", "determined", "technological"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["dedicated", "knowledgeable", "team player"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["just", "like", "others"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["smart", "nerdy", "hardcore"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["job focused", "practical"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["stressed", "nerdy in a good way", "glasses"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": ["technical", "stressing", "dependent"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["logical", "hireable", "applied"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["depends", "on", "the", "concentrator"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": ["efficient", "problem", "solver"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["geeky", "intellectual", "disorganized"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["sleepless", "detail-oriented", "careerist"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["patient", "nuts", "careful"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["analytical", "innovative", "tech-y"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["tech-savvy", "intelligent", "focused"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["tired", "hard-working", "stressed"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["analytical", "tech-savvy", "logical"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["focused", "&", "money", "oriented"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["savy", "intelligent", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["intelligent", "problem-solving", "creative"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["busy", "stressed", "dedicated* *based on their likely high time devotion to increase-in-skill ration"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["determined", "advanced", "intelligent"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["isolated", "geeky", "haughty"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["stressed", "smart", "prepared"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["logical", "ambitious", "tired"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["hard-working", "technical", "self-assured"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": ["nerd", "not-people person", "innovator"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["mathy", "career-oriented", "technical"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["logical", "problem solving", "technical"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["methodical", "logical", "focused"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["pulls", "many", "all-nighters"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["hard-working", "all-nighter", "stressed"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["smart", "cocky", "nerdy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["hard-working", "smart", "tricky"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["sleep deprived", "detail oriented", "quantitative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["dedicated", "busy", "smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["math", "previous tech knowledge"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["rational", "quirky", "systematic"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["hard-working", "studious", "tired"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["innovative smart", "critical-thinker"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["academic", "systematic", "genius"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["analytical", "focused", "pale"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["bright", "self-interested", "collaborative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["analytical", "technological", "scientific"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["type-a", "driven", "studious"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["problem solver", "preserver", "dedicated"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["tired", "nocturnal", "cs"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "cool", "savy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["sleepless", "creative", "smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["specified", "technical", "smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["intelligent", "rational", "smaht"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": ["i", "dont", "know"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": ["quantitative", "smart", "meticulous"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["dedicated", "enthusiast", "unique"],
+    "exp_level": 0,
+    "gender": -1,
+    "race": 2
+}, {
+    "words": ["forward-thinking", "practical", "problem-solving"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["hard-working", "obsessive", "focused"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["dedicated", "interested", "sleep-deprived"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["important", "challenging", "fun"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["analytical", "quiet", "smug"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["innovative", "entrepreneurial", "quick thinker"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["focused", "meticulous", "hard-working"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 6
+}, {
+    "words": ["night owl", "cult"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["codes", "a", "lot"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["determined", "creative", "practical"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["nerdy", "zealous", "smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["intelligent", "savvy", "dedicated"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["analytical", "creative", "focused"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["difficult", "difficult", "difficult"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["intense", "technical", "logical"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["sleep deprived", "smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["focused", "smart", "sleep-deprived"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["intense", "dedicated", "smart"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": ["calculating", "logical", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["hermit", "intelligent", "microsoft"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["driven", "insane", "boy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["motivated", "quantitative", "programmer"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "savy", "hip"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["quantitative", "sleep-deprived", "trend-conscious"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["focused", "no time"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["batsheva", "shore", "moriarty"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["intelligent", "witty", "odd"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["logical", "focused", "computational"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["stem", "innovative", "male"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["practical", "smart", "boring sorry"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "tech", "coding"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": ["way", "of", "tomorrow"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["problem-solver", "generally a little endearingly dorky", "smart"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["math-oriented", "analytical", "creative"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["analytical", "innovative", "socially awkward"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["innovative", "practical", "analytic"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": ["practical", "future-oriented", "techy"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["builder", "intense", "savvy"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "quantitative", "detail oriented"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["innovative", "creative", "logic"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["analytical", "logical", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "busy", "challenged"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": ["stressed", "innovative", "busy"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["focussed", "stressed", "efficient"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["smart", "nerdy", "determined"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["hard-working", "perseverant", "intellectual"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["solitary", "persistent", "engaged"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["smart", "nice", "enthusiastic"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["computer", "science", "concentration"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["career-focused", "hard-working", "creative"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["logical", "night owls"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["intellectual", "focused", "detailed"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["introverted", "nocturnal", "quietly-passionate"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["technical", "problem", "solver"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": ["focused", "nerdy", "builder"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["witty", "creative", "problem solving"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["quantitative", "technical"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["meticulous", "attentive", "glasses"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["code", "problem", "solving"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["problem-solver"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["la", "mon", "ster"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["smart", "quantitative", "technical"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["smart", "chill", "fun"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["smart", "driven", "scrappy"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["ambitious", "intelligent", "hard-working"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["sleepless", "smart", "persistent"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["focused", "driven", "unusual"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["persistence", "persistence", "persistence"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["motivated", "nocturnal", "logical"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["intelligent", "competitive", "creative"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["busy", "ambitious", "creative"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["difficult", "rewarding", "high paying"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["clever", "focused", "quick"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": ["confused", "focused", "elated"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["not", "all", "equal"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["focused", "hard-working", "determined"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["innovative", "determined", "curious"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["lose", "your", "life"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["driven", "successful", "intense"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "fun", "gritty"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["likes", "problem", "solving"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["masochist"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["intense", "interested", "intelligent"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["smart", "determined", "analytical"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["hard-working", "smart", "problem-solvers"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["diligent", "sharp", "tired"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["problem", "solving", "enthusiast"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["intelligent", "driven", "geeky"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["hard-working", "techy", "cool"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["lazy", "bright", "ambitious"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["intense"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["busy", "determined", "not very communicative"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["awesome", "smart", "hard-working"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["pre-professional"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["bright", "diligent", "creative"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["logical", "organized", "hard-working"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["logical", "creative", "diverse"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["challenging", "thrilling", "technical"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": ["creative", "flexible", "logical"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["smart", "hard-working", "smart"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["driven", "logical", "dedicated"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["nerdy", "busy", "proud"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "fast", "intense"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["cant", "--", "theyre", "diverse"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "hard-working", "clever"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["patient", "hard-working", "intense"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["motivated", "intense", "quick"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["stressed", "overworked"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["busy", "stressed", "competitive"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["smart", "techie", "gamer"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["cocky most of the guys are", "asian", "smart"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["hard-working", "clever", "boring"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["diligent", "busy", "stressed"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": -1,
+    "race": 2
+}, {
+    "words": ["driven", "stressed", "smart"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["experience", "interested", "passionate"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["cliquey", "brilliant", "condescending"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["passionate", "hard-working", "tenacious"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["internships", "programming", "cliche"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": ["computer", "science", "concentrator"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["analytical", "well-equipped"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["mathematically inclined", "nerdy", "solitary"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["logical", "easygoing", "intelligent"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["no", "free", "time"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["dedicated", "unfashionable", "intelligent"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["stressed", "overworked", "tired"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["problem-solver", "practical", "debugger"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["logical", "busy", "fun"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["smart", "innovative", "interested"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["analytical", "problem-solver", "creative"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["driven", "dedicated", "patient"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["intelligent", "hard-working", "inventive"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["smart", "problem-solver", "creative"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["industrious", "logical", "devoted"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "lazy", "creative"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["nerdy", "motivated", "sad"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["versatile", "adaptable", "analytical"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["technologically", "inclined", "individual"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": ["pragmatic", "practical", "focused"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["passionate", "smart", "busy"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["nerdy", "ambitious", "narrow"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["busy", "conscientious", "frequently sleep-deprived"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 0
+}, {
+    "words": ["smart", "driven", "technical"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["problem solver", "geeky"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["arrogance", "logical", "idea-people/thinkers"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["dedicated", "stressed", "intelligent"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["stereotypical", "sleep-deprived", "resume-focused"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["varied", "problem-solver", "intelligent"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["smart", "intense", "sleepless"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["brilliant", "no sleep", "dedicated"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["focused", "intelligent", "involved"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["intense", "nerdy", "persistent"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["ambitious", "practical", "curious"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["creative", "dedicated", "determined"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": ["awkward", "smart", "try-hard"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["computer", "science", "concentrator"],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["stressful"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["resourceful", "efficient", "eccentric"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["computer", "science", "concentrator"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["hard-working", "intelligent", "logical"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": ["unconventionally-risk-averse", "polarizing", "less-ambiguous"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["idealistic", "yuppy", "excited"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["pretty", "cool", "people"],
+    "exp_level": 2,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": ["#psetlyfe", "reserved", "smart"],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["puzzlers", "logical", "passionate"],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 6
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 3
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 6
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 4
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 0
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["deft", "meticulous", "concentrated"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["dedicated", "smart", "boring"],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 3
+}, {
+    "words": ["quantitative", "hard-working", "diligent"],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["im", "not", "sure"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "rational", "strange"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 2
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["tired", "driven", "quantitative"],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["smart", "technical", "precise"],
+    "exp_level": 1,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["tech-savvy", "smart", "creative"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 5
+}, {
+    "words": ["creative", "aloof", "focussed"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 4
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": ["smart", "brave", "dilligent"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["driven", "strong", "fulfilling"],
+    "exp_level": 0,
+    "gender": 0,
+    "race": 1
+}, {
+    "words": [],
+    "exp_level": 2,
+    "gender": 0,
+    "race": 5
+}, {
+    "words": ["studious", "psets", "lamonster"],
+    "exp_level": 1,
+    "gender": 1,
+    "race": 2
+}, {
+    "words": ["talented", "focused", "hard-working"],
+    "exp_level": 0,
+    "gender": 1,
+    "race": 1
+}, {
+    "words": ["smart", "quick", "hard-working"],
+    "exp_level": "",
+    "gender": 0,
+    "race": 1
+}]
