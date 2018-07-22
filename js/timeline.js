@@ -42,7 +42,7 @@ var parseDate = d3.time.format("%d-%b-%y").parse
 var x = d3.time.scale()
     .range([0, width]);
 
-d3.csv("../timeline_v3.csv", function(error, data){
+d3.csv("./js/timeline_v3.csv", function(error, data){
 
     // Find the unique categories for the domain for the y axis
     domain_list = []
