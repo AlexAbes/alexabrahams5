@@ -6,7 +6,7 @@ date:   2018-07-22 11:16:03
 
 Static websites are made using the languages of HTML and CSS. If you want to make your website do stuff instead of just sitting there and looking pretty (e.g. show some new text when the user clicks a button, like 'Submitted. Congratulations!'), you need a bit of another language called Javascript, which I will come to at the end of this session.
 
-Today we're going to use Google Chrome's Web Developer Tools to write a website right into your browser. If you were making a website you actually wanted to eventually put out live on the web, you'd save your work on your computer and use a text editor to edit the files rather than the browser. We're doing the session this way today just to make set-up easier, so we can get to the coding quicker.
+Download [Sublime Text](https://www.sublimetext.com/) (it never requires you to pay for a license but you should buy one eventually if you keep using it!) and [Google Chrome](https://www.google.com/chrome/) beforehand.
 
 Things we're going to cover here:
 * You Can Totes Do This: A Story of Being Bad For a Long Time and Then Not Being Bad
