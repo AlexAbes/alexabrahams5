@@ -14,7 +14,7 @@ Things we're going to cover here:
     * [2015-18 website](alexabrahams.co.uk)
     * This website (2018)
 * Content is HTML, Style is CSS
-    * Starter page [here]()
+    * Starter page [here](http://alexandraabrahams.com/makewebsites/index.html)
     * HTML: Head does the thinking, Body does the work
 * Step 1 of making a website: Make an Ugly Website
     * HTML works in tags
@@ -24,18 +24,18 @@ Things we're going to cover here:
     * Links: the roads of the internet
     * Images
     * There are loads more that we don't have time to cover (e.g. tables)
-    * End example [here]()
+    * End example [here](http://alexandraabrahams.com/makewebsites/html_only.html)
 * Step 2 of making a website: Make an Ugly Website Pretty
     * Adding colors, sizes, fonts to certain elements
     * Adding margin and padding to elements
     * Do stuff with images: rounding, bordering, change size, placement
     * How to use classes and IDs for styling
-    * End example [here]()
+    * End example [here](http://alexandraabrahams.com/makewebsites/html_and_css.html)
 * "Ugh, this is so much work": Let me introduce you to Bootstrap
     * Go straight to this page for our Bootstrap work
     * The Grid System
     * Navigation menus
-    * End example [here]()
+    * End example [here](http://alexandraabrahams.com/makewebsites/bootstrap.html)
 * Javascript: bring your Frankenstein to life!
     * Click a button and make things happen
 
