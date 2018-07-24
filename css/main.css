@@ -9,8 +9,12 @@
 }
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
     color: black;
+}
+
+.nav-link, .post-link, .continue-link {
+    text-decoration: none;
 }
 
 a:hover {

@@ -2,12 +2,54 @@
 <html>
     <head>
         <title>Alex's Website</title>
+        <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond" rel="stylesheet">
         <style type="text/css">
-            
+            body {
+                text-align: center;
+            }
+            h1 {
+                color: #FF0000;
+                font-size: 50px;
+                text-align: center;
+            }
+            li {
+                font-family: sans-serif;
+            }
+            h1, li {
+                font-family: 'Cormorant Garamond', serif;
+            }
+            h2 {
+                margin-top: 100px;
+            }
+            img {
+                max-width: 200px;
+                border: solid;
+                border-color: purple;
+                border-radius: 200px;
+                border-width: 20px;
+            }
+            #id1 {
+                color: red;
+            }
+            .class1 {
+                color: blue;
+            }
         </style>
     </head>
 
     <body>
-    
+        <h1>This is a headline</h1>
+        <h2>This is a subtitle</h2>
+        <p>General text goes <a href="https://www.facebook.com">here</a></p>
+        <ul>
+            <!-- Comment goes here -->
+            <li id="id1">This is bullet point 1</li>
+            <li>This is bullet point 2</li>
+        </ul>
+        <ol>
+            <li class="class1">Number one item</li>
+            <li class="class1">Number two item</li>
+        </ol>
+        <a href="https://www.facebook.com"><img src="img/unicorn.jpg"></a>
     </body>
 </html>
