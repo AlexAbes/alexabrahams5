@@ -32,7 +32,7 @@ Things we're going to cover here:
     * How to use classes and IDs for styling
     * End example [here](http://alexandraabrahams.com/makewebsites/html_and_css.html)
 * "Ugh, this is so much work": Let me introduce you to Bootstrap
-    * Go straight to this page for our Bootstrap work
+    * Go straight to [this page](http://alexandraabrahams.com/makewebsites/bootstrap_beginner.html) for our Bootstrap work
     * The Grid System
     * Navigation menus
     * End example [here](http://alexandraabrahams.com/makewebsites/bootstrap.html)
