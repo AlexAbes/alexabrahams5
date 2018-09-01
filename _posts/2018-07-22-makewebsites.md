@@ -11,7 +11,6 @@ Download [Sublime Text](https://www.sublimetext.com/) (it never requires you to 
 Things we're going to cover here:
 * You Can Totes Do This: A Story of Being Bad For a Long Time and Then Not Being Bad
     * [2014 website](http://alexabes.github.io/alexabrahams2/)
-    * [2015-18 website](alexabrahams.co.uk)
     * This website (2018)
 * Content is HTML, Style is CSS
     * Starter page [here](http://alexandraabrahams.com/makewebsites/index.html)
