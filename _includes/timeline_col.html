@@ -1,21 +1,13 @@
-<script src="https://cdn.jsdelivr.net/npm/vega@4.0.0-rc.2"></script>
-<script type="text/javascript">
-var view;
-
-vega.loader()
-  .load('{{base}}/vega-timeline.json')
-  .then(function(data) { render(JSON.parse(data)); });
-
-function render(spec) {
-  view = new vega.View(vega.parse(spec))
-    .renderer('canvas')  // set renderer (canvas or svg)
-    .initialize('#vis') // initialize view within parent DOM container
-    .hover()             // enable hover encode set processing
-    .run();
-}
-</script>
-<!-- Maybe create meta-categories which set the distance between the meta-categories but
-then the regular categories within can be set to the yscale so that they don't overlap? -->
-
-<h1>history</h1>
-<div id="vis"></div>
+<h1>timeline</h1>
+<div class="container">
+    <div class="row">
+        <div id="timeline"></div>
+        <div id="detail">
+            <h3 id="job"></h3>
+            <h4 id="job_title"></h4>
+            <h5 id="job_date"></h5>
+            <p id="job_description"></p>
+        </div>
+    </div>
+</div>
+<p>Design for above visualization based on Ritchie King's <a href="http://ritchiesking.com/resume/" target="_blank">version</a>. Resume is available to download <a href="Abrahams 2018 Postgrad Resume.pdf" download>here</a>.</p>

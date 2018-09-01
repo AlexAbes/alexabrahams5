@@ -23,7 +23,9 @@ var detail = $("#detail");
     detailHeight = detail.height()
 
 // The index in the data of the default selected option for detail div
-var selected = 9;
+// Declared here, and when data is loaded the item with last date gets the default div
+// May be a problem if you have multiple items with latest date; would have to then manually pick one
+var selected;
 
 // Decide margin boundaries and width and height
 var margin = {top: 25, right: 50, bottom: 10, left: 80};
@@ -79,8 +81,14 @@ d3.csv("./js/timeline_v3.csv", function(error, data){
 
     // Format the dates in the data as date objects
     data.forEach(function(d){
+        // Turn the 'present' word into today's date
+        if (d.end == 'present') {
+            d.end = new Date()
+        } else {
+            // If not the word 'present', then format as a date
+            d.end = parseDate(d.end)
+        }
         d.beg = parseDate(d.beg)
-        d.end = parseDate(d.end)
     });
 
     // Find the last date in the data, and pass that row as the default detail to showDetail

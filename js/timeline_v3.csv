@@ -1,16 +1,17 @@
 meta_cat,cat,beg,end,label,job,job_title,job_date,job_description
 school,school,1-Jun-12,1-Jun-13,gap year,gap year,year off after high school,jun.12-jun.13,"traveled around as a political tourist for a year, started dabbling with code"
 school,school,8-Oct-13,19-Jun-15,oxford,oxford,"philosophy, politics, and economics",oct.13-jul.15,studied PPE for 2 years before transferring to harvard
-school,school,25-Aug-15,24-May-18,harvard,harvard,computer science,aug.15-may.18,transferred to harvard and switched to computer science. BA 2018 (gpa 3.59)
+school,school,25-Aug-15,24-May-18,harvard,harvard,computer science,aug.15-may.18,transferred to harvard and switched to computer science. AB 2018 (gpa 3.59)
 work,work,23-Jun-12,30-Aug-12,OFA,obama for america,organizing fellow,jun.12-aug.12,"organizing fellow for 4 neighborhoods in Queens, NY"
 work,work,10-Sep-12,23-Nov-12,parliament,uk parliament,parliamentary intern,sep.12-nov.12,worked for a MP on constituency casework
 work ,work,14-Jul-14,3-Oct-14,gocardless,gocardless,biz dev intern,jul.14-oct.14,business development intern for a fintech startup
 work,work,30-Aug-16,11-Nov-16,HFA,hillary for america,data analytics intern,aug.16-nov.16,took a semester off to intern in the data analytics team in Brooklyn
 work,work,9-Sep-17,12-Dec-17,cs171,harvard cs171,teaching fellow,sep.17-dec.17,tf for harvard's data viz course using d3. held office hours and graded assignments
-work,work,4-Jun-18,10-Aug-18,precision,precision strategies,data analytics intern,jun.18-aug.18,"data viz in vega and d3, python data pipelines, web data scraping"
+work,work,4-Jun-18,present,precision,precision strategies,data analytics associate,jun.18-present,"SQL queries, data viz in vega and d3, python data pipelines, web data scraping"
 fun,fun,19-Jun-17,28-Aug-17,roadtrip,roadtrip,roadtrip across the US,jun.17-aug.17,"best thing I ever did- visited CO, UT, AZ, NV, CA, MT, WY, KS, MO, TN, AL, GA, SC, VA, DC, NY, MA"
 fun,misc.,6-Feb-17,13-Apr-18,scas,scas,volunteer,feb.17-apr.18,"run by harvard undergrads, SCAS provides legal information about MA small claims law"
 fun,misc.,8-Feb-16,1-Apr-16,conference,harvard political analytics conference,student organizer,feb.16-apr.16,"helped the government department to organize the inaugural conference, and again in 2017"
 fun,fun,1-Aug-14,1-Jul-15,codelaborate,codelaborate,co-founder,aug.14-jul.15,"co-founded codelaborate, an organization that held weekly meetups and large speaker events for self- taught programmers at oxford"
 fun,misc.,1-Aug-14,1-Jul-15,cfg,code first: girls,course organizer,aug.14-jul.15,CFG teaches college women to code; organized three semester-long courses for 20 women each
 fun,fun,1-Jun-16,30-Sep-16,project,TrumpsRepublicans.com,side project,jun.16-sep.16,"back when supporting trump seemed like a bad thing for republicans, I scraped data on 2016 republicans' positions on trump"
+,,,,,,,,
