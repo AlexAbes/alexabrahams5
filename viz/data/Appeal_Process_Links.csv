@@ -1,309 +1,299 @@
-source,target
-2,1
-3,1
-106,1
-106,2
-106,3
-107,106
-108,106
-109,106
-109,2
-5,4
-110,111
-110,5
-111,4
-111,5
-6,-98
-112,-98
-113,-98
-114,-98
-8,7
-115,117
-116,117
-117,7
-117,8
-118,8
-10,9
-119,9
-119,10
-120,119
-12,11
-121,12
-14,13
-122,125
-123,13
-123,14
-124,14
-125,14
-125,13
-126,122
-126,125
-127,13
-16,15
-128,129
-129,16
-129,15
-130,132
-131,17
-132,135
-133,135
-133,17
-134,132
-135,17
-136,18
-20,19
-137,19
-137,20
-138,137
-22,21
-139,22
-140,146
-141,22
-142,146
-143,146
-144,146
-144,21
-144,22
-145,22
-146,22
-146,21
-147,23
-25,24
-148,25
-149,25
-150,26
-151,150
-29,28
-152,28
-152,29
-31,30
-32,30
-153,31
-153,30
-154,157
-154,153
-155,31
-155,30
-156,157
-156,153
-157,31
-157,30
-158,157
-158,153
-34,33
-159,33
-36,35
-160,35
-160,36
-161,160
-38,37
-162,37
-162,38
-163,162
-164,37
-164,38
-40,39
-165,167
-166,40
-166,39
-167,166
-167,40
-168,167
-168,165
-169,40
-170,167
-171,41
-171,173
-172,41
-173,41
-43,42
-174,42
-174,43
-175,174
-176,43
-45,44
-177,45
-178,45
-179,45
-180,45
-181,45
-182,45
-183,44
-183,45
-47,46
-184,47
-185,47
-186,184
-187,184
-188,184
-49,48
-189,49
-51,50
-190,50
-191,50
-192,191
-192,50
-193,190
-193,192
-193,191
-194,190
-194,192
-194,191
-53,52
-195,52
-195,53
-196,195
-197,198
-198,54
-199,198
-200,198
-201,54
-202,54
-56,55
-203,204
-204,56
-205,56
-206,56
-58,57
-207,57
-208,207
-209,207
-210,211
-211,59
-61,60
-212,213
-213,60
-213,61
-214,61
-63,62
-215,216
-216,63
-217,216
-218,216
-219,216
-65,64
-66,64
-220,222
-220,66
-221,66
-222,65
-223,65
-224,66
-225,65
-225,66
-226,65
-227,65
-228,65
-229,66
-68,67
-230,231
-231,67
-231,68
-70,69
-232,69
-233,232
-71,-98
-234,-98
-73,72
-235,73
-236,73
-237,73
-238,239
-238,235
-239,73
-76,75
-240,75
-240,74
-241,240
-242,74
-243,75
-78,77
-245,77
-245,78
-246,245
-247,245
-248,245
-249,77
-80,79
-81,79
-250,79
-250,80
-250,81
-251,250
-252,250
-83,82
-253,83
-254,258
-254,84
-255,84
-256,259
-256,254
-256,258
-257,258
-258,84
-259,254
-260,84
-260,258
-86,85
-261,86
-262,85
-262,86
-263,261
-264,261
-265,261
-266,87
-267,266
-89,88
-90,88
-268,89
-269,89
-269,90
-270,90
-271,269
-271,270
-272,269
-273,270
-274,89
-93,91
-93,92
-275,93
-276,93
-277,93
-278,277
-278,276
-278,275
-279,277
-280,93
-279,276
-279,275
-280,93
-95,94
-281,94
-281,95
-282,281
-283,95
-284,96
-97,-98
-285,-98
-99,98
-286,98
-286,99
-287,286
-101,100
-288,290
-289,290
-290,100
-290,101
-291,102
-292,291
-293,291
-293,292
-294,291
-104,103
-295,104
-296,295
-297,298
-298,105
-299,298
-27,26
-300,119
+source,target,USStateName
+2,1,Alabama
+3,1,Alabama
+106,1,Alabama
+106,2,Alabama
+106,3,Alabama
+107,106,Alabama
+108,106,Alabama
+109,106,Alabama
+109,2,Alabama
+5,4,Alaska
+110,111,Alaska
+110,5,Alaska
+111,4,Alaska
+111,5,Alaska
+8,7,Arizona
+115,117,Arizona
+116,117,Arizona
+117,7,Arizona
+117,8,Arizona
+118,8,Arizona
+10,9,Arkansas
+119,9,Arkansas
+119,10,Arkansas
+120,119,Arkansas
+12,11,California
+121,12,California
+14,13,Colorado
+122,125,Colorado
+123,13,Colorado
+123,14,Colorado
+124,14,Colorado
+125,14,Colorado
+125,13,Colorado
+126,122,Colorado
+126,125,Colorado
+127,13,Colorado
+16,15,Connecticut
+128,129,Connecticut
+129,16,Connecticut
+129,15,Connecticut
+130,132,Delaware
+131,17,Delaware
+132,135,Delaware
+133,135,Delaware
+133,17,Delaware
+134,132,Delaware
+135,17,Delaware
+136,18,District of Columbia
+20,19,Florida
+137,19,Florida
+137,20,Florida
+138,137,Florida
+22,21,Georgia
+139,22,Georgia
+140,146,Georgia
+141,22,Georgia
+142,146,Georgia
+143,146,Georgia
+144,146,Georgia
+144,21,Georgia
+144,22,Georgia
+145,22,Georgia
+146,22,Georgia
+146,21,Georgia
+147,23,Guam
+25,24,Hawai'i
+148,25,Hawai'i
+149,25,Hawai'i
+150,26,Idaho
+151,150,Idaho
+29,28,Illinois
+152,28,Illinois
+152,29,Illinois
+31,30,Indiana
+32,30,Indiana
+153,31,Indiana
+153,30,Indiana
+154,157,Indiana
+154,153,Indiana
+155,31,Indiana
+155,30,Indiana
+156,157,Indiana
+156,153,Indiana
+157,31,Indiana
+157,30,Indiana
+158,157,Indiana
+158,153,Indiana
+34,33,Iowa
+159,33,Iowa
+36,35,Kansas
+160,35,Kansas
+160,36,Kansas
+161,160,Kansas
+38,37,Kentucky
+162,37,Kentucky
+162,38,Kentucky
+163,162,Kentucky
+164,37,Kentucky
+164,38,Kentucky
+40,39,Louisiana
+165,167,Louisiana
+166,40,Louisiana
+166,39,Louisiana
+167,166,Louisiana
+167,40,Louisiana
+168,167,Louisiana
+168,165,Louisiana
+169,40,Louisiana
+170,167,Louisiana
+171,41,Maine
+171,173,Maine
+172,41,Maine
+173,41,Maine
+43,42,Maryland
+174,42,Maryland
+174,43,Maryland
+175,174,Maryland
+176,43,Maryland
+45,44,Massachusetts
+177,45,Massachusetts
+178,45,Massachusetts
+179,45,Massachusetts
+180,45,Massachusetts
+181,45,Massachusetts
+182,45,Massachusetts
+183,44,Massachusetts
+183,45,Massachusetts
+47,46,Michigan
+184,47,Michigan
+185,47,Michigan
+186,184,Michigan
+187,184,Michigan
+188,184,Michigan
+49,48,Minnesota
+189,49,Minnesota
+51,50,Mississippi
+190,50,Mississippi
+191,50,Mississippi
+192,191,Mississippi
+192,50,Mississippi
+193,190,Mississippi
+193,192,Mississippi
+193,191,Mississippi
+194,190,Mississippi
+194,192,Mississippi
+194,191,Mississippi
+53,52,Missouri
+195,52,Missouri
+195,53,Missouri
+197,198,Montana
+198,54,Montana
+199,198,Montana
+200,198,Montana
+201,54,Montana
+202,54,Montana
+56,55,Nebraska
+203,204,Nebraska
+204,56,Nebraska
+205,56,Nebraska
+206,56,Nebraska
+58,57,Nevada
+207,57,Nevada
+208,207,Nevada
+209,207,Nevada
+210,211,New Hampshire
+211,59,New Hampshire
+61,60,New Jersey
+212,213,New Jersey
+213,60,New Jersey
+213,61,New Jersey
+214,61,New Jersey
+63,62,New Mexico
+215,216,New Mexico
+216,63,New Mexico
+217,216,New Mexico
+218,216,New Mexico
+219,216,New Mexico
+65,64,New York
+66,64,New York
+220,222,New York
+220,66,New York
+221,66,New York
+222,65,New York
+223,65,New York
+224,66,New York
+225,65,New York
+225,66,New York
+226,65,New York
+227,65,New York
+228,65,New York
+229,66,New York
+68,67,North Carolina
+230,231,North Carolina
+231,67,North Carolina
+231,68,North Carolina
+70,69,North Dakota
+232,69,North Dakota
+233,232,North Dakota
+73,72,Ohio
+235,73,Ohio
+236,73,Ohio
+237,73,Ohio
+238,239,Ohio
+238,235,Ohio
+239,73,Ohio
+76,75,Oklahoma
+240,75,Oklahoma
+240,74,Oklahoma
+241,240,Oklahoma
+242,74,Oklahoma
+243,75,Oklahoma
+78,77,Oregon
+245,77,Oregon
+245,78,Oregon
+246,245,Oregon
+247,245,Oregon
+248,245,Oregon
+249,77,Oregon
+80,79,Pennsylvania
+81,79,Pennsylvania
+250,79,Pennsylvania
+250,80,Pennsylvania
+250,81,Pennsylvania
+251,250,Pennsylvania
+252,250,Pennsylvania
+83,82,Puerto Rico
+253,83,Puerto Rico
+254,258,Rhode Island
+254,84,Rhode Island
+255,84,Rhode Island
+256,259,Rhode Island
+256,254,Rhode Island
+256,258,Rhode Island
+257,258,Rhode Island
+258,84,Rhode Island
+259,254,Rhode Island
+260,84,Rhode Island
+260,258,Rhode Island
+86,85,South Carolina
+261,86,South Carolina
+262,85,South Carolina
+262,86,South Carolina
+263,261,South Carolina
+264,261,South Carolina
+265,261,South Carolina
+266,87,South Dakota
+267,266,South Dakota
+89,88,Tennessee
+90,88,Tennessee
+268,89,Tennessee
+269,89,Tennessee
+269,90,Tennessee
+270,90,Tennessee
+271,269,Tennessee
+271,270,Tennessee
+272,269,Tennessee
+273,270,Tennessee
+274,89,Tennessee
+93,91,Texas
+93,92,Texas
+275,93,Texas
+276,93,Texas
+277,93,Texas
+278,277,Texas
+278,276,Texas
+278,275,Texas
+279,277,Texas
+280,93,Texas
+279,276,Texas
+279,275,Texas
+280,93,Texas
+95,94,Utah
+281,94,Utah
+281,95,Utah
+282,281,Utah
+283,95,Utah
+284,96,Vermont
+99,98,Virginia
+286,98,Virginia
+286,99,Virginia
+287,286,Virginia
+101,100,Washington
+288,290,Washington
+289,290,Washington
+290,100,Washington
+290,101,Washington
+291,102,West Virginia
+292,291,West Virginia
+293,291,West Virginia
+293,292,West Virginia
+294,291,West Virginia
+104,103,Wisconsin
+295,104,Wisconsin
+296,295,Wisconsin
+297,298,Wyoming
+298,105,Wyoming
+299,298,Wyoming
+27,26,Idaho
