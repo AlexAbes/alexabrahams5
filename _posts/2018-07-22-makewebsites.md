@@ -22,7 +22,8 @@ Things we're going to cover here:
     * Lists: bullet points or ordered
     * Links: the roads of the internet
     * Images
-    * There are loads more that we don't have time to cover (e.g. tables)
+    * Tables
+    * There are loads more that we don't have time to cover
     * End example [here](http://alexandraabrahams.com/makewebsites/html_only.html)
 * Step 2 of making a website: Make an Ugly Website Pretty
     * Adding colors, sizes, fonts to certain elements
