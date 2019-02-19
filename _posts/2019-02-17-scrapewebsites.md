@@ -16,11 +16,10 @@ This post is intended as a worksheet for the in-person workshops I do on how to 
 ```python
 python --version
 ```
-* Python comes with a lot of modules already installed, but not all of the ones you'll need today. We need to install the [requests](http://docs.python-requests.org/en/master/) module, which lets your program visit websites, and the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) module, which parses the HTML you get from a website and makes it easy to pull out the tags you're looking for. You also need to install the [csv](https://docs.python.org/3/library/csv.html) module, which lets you create and manipulate CSVs. To install these modules, run the following commands one at a time in your Terminal window:
+* Python comes with a lot of modules already installed, but not all of the ones you'll need today. We need to install the [requests](http://docs.python-requests.org/en/master/) module, which lets your program visit websites, and the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) module, which parses the HTML you get from a website and makes it easy to pull out the tags you're looking for. To install these modules, run the following commands one at a time in your Terminal window:
 ```
 pip install requests
 pip install beautifulsoup4
-pip install csv
 ```
 
 If you have any problems with the above, contact me and we'll sort it out before the workshop.
