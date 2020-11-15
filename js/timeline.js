@@ -7,7 +7,7 @@ Modifications:
 - Deleted the part where we add an extra SVG for the detail, and now we just update the IDs in the HTML using showDetail function
 Note: this may make this harder for others to customize; HTML and the data have to be perfecly in sync re: ID and column names
 i.e. if you add data columns or change the column names
-- Now we create the y axis category labels and the rectangle labels programmitically rather than repeating code for adding text
+- Now we create the y axis category labels and the rectangle labels programmatically rather than repeating code for adding text
 - We now find the years for vertical year lines programmatically so that viz stays up to date
 - There are no longer mini-categories
 */
