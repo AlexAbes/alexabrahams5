@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Abrahams Wisconsin</title>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,600,800' rel='stylesheet' type='text/css'>
+    <!-- Google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|IM+Fell+English+SC|Space+Mono" rel="stylesheet">
+    <!-- Bootstrap table CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.15.2/dist/bootstrap-table.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Wisconsin February 2021 Primary Absentee Voting</h1>
+        <h3>Created by <a href="http://alexandraabrahams.com"target="_blank">Alex Abrahams</a></h3>
+        <hr>
+        <div class="home container">
+            <h4>
+                This project visualizes the absentee voting patterns in the February 2021 Wisconsin state primary elections.
+                Last updated Thursday February 11 at 7:05pm CT.
+            </h4>
+        </div>
+        <div class="total container">
+            <div class="row">
+                <div class="col-sm-3 totals">
+                    <p class="total_num" id="absentee_ballot_apps">--</p>
+                    <p>Absentee Ballot Applications</p>
+                </div>
+                <div class="col-sm-3 totals">
+                    <p class="total_num" id="absentee_ballots_sent">--</p>
+                    <p>Absentee Ballots Sent Out</p>
+                </div>
+                <div class="col-sm-3 totals">
+                    <p class="total_num" id="absentee_ballots_returned">--</p>
+                    <p>Absentee Ballots Returned</p>
+                </div>
+                <div class="col-sm-3 totals">
+                    <p class="total_num" id="in_person_votes">--</p>
+                    <p>In Person Absentee Votes</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 totals">
+                    <p class="total_num" id="pct_ballot_apps_sent">--</p>
+                    <p>% of Absentee Ballot Applications Sent Out</p>
+                </div>
+                <div class="col-sm-6 totals">
+                    <p class="total_num" id="pct_ballot_apps_returned">--</p>
+                    <p>% of Absentee Ballots Sent Out Returned</p>
+                </div>
+            </div>
+        </div>
+        <hr>
+        
+        <div class="row">
+            <div class="col-md-6">
+                <div id="chart-area"></div>
+            </div>
+            <div class="col-md-6" id="extra_info">
+                <div id="info">
+                    <h4 class="legend">
+                        Use the dropdown below to switch between data sources.
+                    </h4>
+                    <div class="dropdown btn-group">
+                        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true"   aria-expanded="true">
+                            Data source
+                            <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                            <li><a href="#" onclick="switchData('AbsenteeApplications')">Absentee Ballot Applications</a></li>
+                            <li><a href="#" onclick="switchData('BallotsSent')">Absentee Ballots Sent Out</a></li>
+                            <li><a href="#" onclick="switchData('BallotsReturned')">Absentee Ballots Returned</a></li>
+                            <li><a href="#" onclick="switchData('InPersonAbsentee')">In Person Absentee Votes</a></li>
+                            <li><a href="#" onclick="switchData('pct_ballots_sent_out')">% of Absentee Ballot Applications Sent Out</a></li>
+                            <li><a href="#" onclick="switchData('pct_ballots_sent_returned')">% of Absentee Ballot Applications Returned</a></li>
+                        </ul>
+                    </div>
+                    <!-- Section for county zoom -->
+                    <br>
+                    <h4 class="legend" id="marginup">
+                        You can also click on a county in the map to see detailed stats.
+                    </h4>
+                    <h3 id="county_title"></h3>
+                    <p id="county_details"></p>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <h2 id="title">Top 5 counties by __</h2>
+            <div id="top5_table_holder"></div>
+            <table id="top5_table" data-sortable="true"></table>
+        </div>
+        <br>
+        <div class="conclusion container">
+            <h4>
+                <strong>Take-aways: </strong> The counties with the biggest numbers of returned ballots are Dane and Waukesha, indicating some Democratic enthusiasm for the primary election. However, Waukesha and Brown also have decent numbers, so turnout may not be entirely lopsided. On the voter protection side, both statewide and in heavily Democratic counties like Dane and Milwaukee, county clerks have mailed out a high percentage of the absentee ballots that have been requested. However, voters in Dane and Milwaukee appear to have been mailing their ballots back at different rates; Dane is in line with the statewide average of 18% with a return rate of 19%, but Milwaukee is so far at only 10%. Milwaukee does have a relatively high number of in person absentee votes, which may be making up the difference if people do not trust USPS to get their ballots back in time.
+                
+            </h4>
+        </div>
+    </div>
+    <footer class="site-footer" id="footer">
+        <hr>
+    </footer>
+
+    <!-- Load JS libraries: jQuery, bootstrap, D3, D3 tooltip -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Bootstrap table JS -->
+    <script src="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="//d3js.org/d3.v3.min.js"></script>
+    <script src="js/d3.tip.js"></script>
+    <script src="//d3js.org/topojson.v1.min.js"></script>
+
+    <!-- Viz code -->
+    <script src="js/main.js"></script>
+</body>
+</html>
