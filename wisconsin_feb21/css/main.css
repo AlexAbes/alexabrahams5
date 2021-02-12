@@ -90,6 +90,10 @@ table {
     margin-bottom: 5%
 }
 
+#currentDataSource {
+    text-align: center;
+}
+
 /*********************/
 /*     MAP STYLES    */
 /*********************/

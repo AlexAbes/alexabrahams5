@@ -139,8 +139,9 @@ function switchData(data_source) {
         // Create the table using the top5 data
         tableCreator(top5Data);
 
-        // Update title to say which data source is being shown
+        // Update table title to say which data source is being shown
         document.getElementById("title").innerHTML = "Top 5 counties by " + columnDict[data_source];
+        document.getElementById("currentDataSource").innerHTML = "Map currently shows data on " + columnDict[data_source];
 
         d3.json("data/us_counties.json", function(error, us) {
             if (error) throw error;
