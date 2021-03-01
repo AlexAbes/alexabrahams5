@@ -84,7 +84,7 @@ function tableCreator(top5Data) {
 // Traffic color scale for percentages
 var trafficColor = d3.scale.linear()
     .domain([0, 0.5, 1])
-    .range(['red', 'yellow', 'green']);
+    .range(['red', 'orange', 'green']);
 
 // Boolean for whether the SVG already exists
 var svgExists = false;
