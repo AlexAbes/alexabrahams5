@@ -151,7 +151,7 @@ d3.csv("./js/timeline_v3.csv", function(error, data){
         .attr("x", function(d) { return x(d.beg); })
         .attr("y", function(d, i) { 
             // certain items are too close together, so have to put their labels underneath the rect
-            if (d["label"] == "parliament") {
+            if (["parliament", "colorado"].includes(d["label"])) {
                 return y(d.cat) + 30; 
             } else {
                 return y(d.cat) - 4; 
