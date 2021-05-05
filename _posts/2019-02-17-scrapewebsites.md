@@ -4,7 +4,7 @@ title:  "How To Scrape Websites and Wrangle CSVs"
 date:   2019-02-17 11:16:03
 ---
 
-This post is intended as a worksheet for the in-person workshops I do on how to scape data from websites and wrangle it into a CSV. This kind of assumes you're using a Mac.
+This post is intended as a worksheet for the in-person workshops I do on how to scrape data from websites and wrangle it into a CSV. This kind of assumes you're using a Mac.
 
 #### Assumed knowledge:
 * Understanding of HTML and basic website structure
