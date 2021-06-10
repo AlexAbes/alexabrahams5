@@ -25,7 +25,7 @@ for key,val in race_dict.items():
 	# List_of_rows will contain our CSV
 	list_of_rows = []
 	# Get a list of the tables that have the same class as the table we want
-	rcp_tables_list = soup.find_all("table", class_="data large ")
+	rcp_tables_list = soup.find_all("table", class_="data large")
 	# Get a list of the table row elements in the first table of the above list
 	table_rows = rcp_tables_list[0].find_all("tr")
 	# Need to get the header separately, because it contains th cells not td cells

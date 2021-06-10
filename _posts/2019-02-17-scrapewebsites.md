@@ -68,7 +68,7 @@ Now that we seem to have the HTML from a website down, we probably want to look 
 ```
 So it appears that we just want to pull out this element. Let's do that using BeautifulSoup's find_all function:
 ```python
-rcp_tables_list = soup.find_all("table", class_="data large ")
+rcp_tables_list = soup.find_all("table", class_="data large")
 if len(rcp_tables_list) > 0:
 	print(rcp_tables_list[0])
 ```
